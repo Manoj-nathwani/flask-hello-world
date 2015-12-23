@@ -8,3 +8,4 @@ $ cd flask-hello-world
 $ pip install -r requirements.txt
 $ python app.py
 ```
+Go to <a href="http://localhost:5000" target="_blank">http://localhost:5000</a>
