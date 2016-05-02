@@ -5,6 +5,8 @@ Simple hello world starting app for Flask projects
 ```
 $ git clone https://github.com/Manoj-nathwani/flask-hello-world.git
 $ cd flask-hello-world
+$ virtualenv venv
+$ source venv/bin/activate
 $ pip install -r requirements.txt
 $ python app.py
 ```
