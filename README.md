@@ -15,3 +15,9 @@ Download ngrok from <a href="https://ngrok.com/download" target="_blank">here</a
 ```
 $ ./ngrok http 5000
 ```
+
+# heroku setup
+Simply make a file named `Procfile` with:
+```
+web: python app.py
+```
